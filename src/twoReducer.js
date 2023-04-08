@@ -48,9 +48,7 @@ const productReducer = (state = initialProduct, action) => {
       };
 
     case GET_PRODUCT:
-      return {
-        state,
-      };
+      return state;
 
     default:
       return state;
@@ -67,9 +65,7 @@ const cartReducer = (state = initialCart, action) => {
       };
 
     case GET_CART:
-      return {
-        state,
-      };
+      return state;
 
     default:
       return state;
