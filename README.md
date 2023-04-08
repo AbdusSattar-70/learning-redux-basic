@@ -1,13 +1,11 @@
 <a name="readme-top"></a>
 
 <div align="center">
- <h3><b>Math-Magicians</b>.
+ <h3><b>Learning redux First Step</b>.
  </h5>
 </div>
 
 <div align="center">
-<h3><b>Screenshot</b></h3>
-<img src="src/assets/Screen1.png" alt="screenshoot" width="400"  height="auto"/>
 
 </div>
 
@@ -38,9 +36,9 @@
 
 ## 📖 Math-Magicians <a name="about-project"></a>
 
-**Math-Magicians** is the first project of the Math Magicians application with React</b>
+**learning-redux-basic** is the first project to applay redux</b>
 
-<h5> I set up the environment and tools needed to develop a React application. In this project, I have made a simple SPA that contains three subpages - Made a simple calculator, made a random math-related quote, and Homepage.</h5>
+<h5> I set up the environment and tools needed to develop a React with redux application. In this project, I have made a simple SPA that contains only one page</h5>
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -54,6 +52,7 @@
     <li>CSS</li>
     <li>JS</li>
     <li>React</li>
+    <li>Redux</li>
   </ul>
 </details>
 <details>
@@ -74,8 +73,7 @@
 
 ## Key Features <a name="key-features"></a>
 
-- [ ] **You can simple calculate by using calculator**
-- [ ] **You can see random math related quotes**
+- [ ] **You can use it for learning basic of redux**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -83,7 +81,7 @@
 
 ## 🚀 Live Demo<a name="live-demo"></a>
 
-- [Live Demo Link](https://math-magicians-ufq5.onrender.com/)
+- [Live Demo Link](This page didn't deploy)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -109,8 +107,8 @@ To get a local copy up and running, follow these steps.
 Clone this repository to your desired folder:
 
 ```bash
-       git clone https://github.com/AbdusSattar-70/Math-Magicians.git
-       cd Math-Magicians
+       git clone https://github.com/AbdusSattar-70/learning-redux-basic.git
+       cd learning-redux-basic
 ```
 
 # Install <a name="install"></a>
@@ -138,7 +136,7 @@ To run tests and check errors, run the following command:
 - To check Eslint error:-
 
 ```bash
-  npx exlint .
+   npx eslint "**/*.{js,jsx}"
 ```
 
 # Deployment <a name="triangular_flag_on_post-deployment"></a>
