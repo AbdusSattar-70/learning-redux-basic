@@ -77,7 +77,7 @@ createStore give us three method -> getState(),subscribe() and dispatch()
 const store = createStore(countReducer);
 
 store.subscribe(() => {
-  store.getState();
+  console.log(store.getState());
 });
 
 /* dispatch action  means call the action function inside dispatch() */
