@@ -36,7 +36,7 @@
 
 ## 📖 Math-Magicians <a name="about-project"></a>
 
-**learning-redux-basic** is the first project to applay redux</b>
+**learning-redux-basic** is the first project to apply redux</b>
 
 <h5> I set up the environment and tools needed to develop a React with redux application. In this project, I have made a simple SPA that contains only one page</h5>
 
